@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+# SPDX-FileCopyrightText: 2025 Daishi Watabe dw@sit.ac.jp
+
 import sys
 
 ans = 0
